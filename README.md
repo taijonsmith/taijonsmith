@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-- 🚀 Full Stack Software Engineer with 7+ years of experience, driven by emerging tech including blockchain, AI, and web3
-- 🌟 Creator of [Hybrid.app](https://hybrid.app), a SaaS platform for freelancers
+- 👨🏾‍💻 Full Stack Software Engineer with 7+ years of experience, driven by emerging tech including blockchain, AI, and web3
+- 🐺 Creator of [Hybrid.app](https://hybrid.app), a SaaS platform for freelancers
 - 🍑 Based in Atlanta, Georgia
 
 I’m passionate about solving complex problems and building tools that simplify life for everyone. I focus on delivering high-quality solutions that offer an exceptional user experience.
